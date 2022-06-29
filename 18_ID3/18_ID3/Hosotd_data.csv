@@ -1,0 +1,16 @@
+Level,Job,N_Company,Top_Train,Project,Result
+Dai hoc,Co,2,Khong,Khong,Co
+Dai hoc,Khong,1,Co,Co,Co
+Cao dang,Khong,4,Khong,Khong,Khong
+Dai hoc,Co,1,Co,Khong,Co
+Dai hoc,Co,5,Co,Khong,Co
+Dai hoc,Khong,1,Co,Co,Co
+Cao dang,Co,0,Khong,Khong,Khong
+Dai hoc,Khong,6,Khong,Co,Co
+Trung tam tin hoc,Co,2,Khong,Co,Co
+Cao dang,Khong,3,Khong,Khong,Khong
+Dai hoc,Khong,0,Co,Khong,Co
+Trung tam tin hoc,Co,3,Khong,Co,Co
+Dai hoc,Khong,0,Khong,Khong,Khong
+Trung tam tin hoc,Co,4,Khong,Khong,Khong
+Cao dang,Khong,5,Khong,Co,Co
